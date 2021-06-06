@@ -1,4 +1,4 @@
-# CS-185
+# CS-185C
 Upon completion of this course and through the hands on assignments uploaded above, I was successfully able to 
 
 1. Manipulate large datasets and handle missing or inconsistent values in datasets using Pandas dataframes and Series.
